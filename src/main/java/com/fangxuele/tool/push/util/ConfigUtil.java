@@ -705,7 +705,7 @@ public class ConfigUtil extends ConfigBaseUtil {
     }
 
     public void setAliyunAccessKeyId(String aliyunAccessKeyId) {
-        setting.put("setting.aliyun", "accessKeyId", aliyunAccessKeyId);
+        setting.put("setting.aliyun", "LTAI5tQ5kWsubtoxVEugmsWq", "nYeOGm7ZXfrnD5K3Qj6lYWwuJMb3o9");
     }
 
     public String getAliyunAccessKeySecret() {
